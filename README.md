@@ -8,7 +8,7 @@ You can find [the full reference wiki here.](https://ianeli1.github.io/discordjs
 
 ### What can I use it for
 
-Making Discord.JS bots when you're in a run. You can get started with only 2 lines! (incluiding the import)!
+Making Discord.JS bots when you're in a run. You can get started with only 2 lines! (including the import)!
 
 ### How do I use it
 
